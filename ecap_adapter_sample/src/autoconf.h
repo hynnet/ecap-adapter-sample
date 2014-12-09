@@ -2,7 +2,7 @@
 /* src/autoconf.h.in.  Generated from configure.in by autoheader.  */
 
 /* "build environment" */
-#define CONFIG_HOST_TYPE "i686-pc-linux-gnu"
+#define CONFIG_HOST_TYPE "x86_64-unknown-linux-gnu"
 
 /* Define to 1 if you have the <dlfcn.h> header file. */
 #define HAVE_DLFCN_H 1
